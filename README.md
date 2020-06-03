@@ -1,6 +1,6 @@
 # Reverse Engineering Code
 
-### This md will explain which each file does/if it correlates to another file/how you would manipulate the code for any use desired.
+### This md will explain what each file does/if it correlates to another file/how you would manipulate the code for any use desired.
 --- 
 - package.json
 ###### Showing you what dependencies this app will require to get started and which default js file is being run as the main.
